@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Manneh Thompson, otherwise known as MXT
 
-<!--
+Welcome to my page!
+<!--s
 **mxt94/MXT94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
